@@ -5,7 +5,7 @@ export function NavBar() {
     <div>
       <Link to="/"> Home</Link>
       <Link to="/menu"> Menu </Link>
-      <Link to="/contact"> Contact</Link>
+      <Link to="/contact"> Profile</Link>
     </div>
   );
 }
